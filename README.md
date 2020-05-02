@@ -26,12 +26,12 @@ Visualization data for USA auction of automobiles
 ### Графики 
 Построим график продаж в зависимости от года выпуска автомобиля.
 ![Head](https://github.com/DmitriyBul/Cars-auction-/blob/master/Yearly_Sales.PNG)
-***
+
 Наибольшую сумму удалось выручить в 2019 году. Рассмотрим, автомобили каких марок были наиболее часто продавались на аукционе.
 ![Head](https://github.com/DmitriyBul/Cars-auction-/blob/master/Quantity.PNG)
-***
+
 Самыми продаваемыми оказались автомобили марки Ford, Dodge, Nissan и Chevrolet.
-***
+
 Всем спасибо!
 
 
